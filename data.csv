@@ -1,30 +1,30 @@
-technology;econ_relevance;research_relevance;industry_application;field;quadrant;label_dx;label_dy;name_long;url
-Industrie 5.0;7.4;7.7;8;Digitale Welt;Star;-30;-30;Industrie 5.0;https://technology-outlook.satw.ch/de/technologien-im-fokus/industrie-50
-IoT;9.1;9.6;11;Digitale Welt;Star;35;5;Internet of Things;https://technology-outlook.satw.ch/de/technologien-im-fokus/internet-of-things
-PICs;3.1;0.8;2;Digitale Welt;Hoffnungsträger;12;5;Photonisch integrierte Schaltkreise (PICs);https://technology-outlook.satw.ch/de/technologien-im-fokus/pics-1
-URLCC;8.6;7.7;4;Digitale Welt;Star;15;-20;Ultrazuverlässige Echtzeitkommunikation;https://technology-outlook.satw.ch/de/technologien-im-fokus/urllc
-künstliche Photosynthese;3.1;5.4;2;Energie und Umwelt;Nische;-200;-20;Künstliche Photosynthese;https://technology-outlook.satw.ch/de/technologien-im-fokus/kuenstliche-photosynthese-1
-Kunststoffrecycling;4.8;2.7;7;Energie und Umwelt;Hoffnungsträger;-150;45;Kunststoffrecycling;https://technology-outlook.satw.ch/de/technologien-im-fokus/kunststoffrecycling
-Negativemissionstechnologien;3;7.4;5;Energie und Umwelt;Nische;-225;-20;Negativemissionstechnologien;https://technology-outlook.satw.ch/de/technologien-im-fokus/negativemissionstechnologien
-Phosphorrecycling;0.7;0.7;2;Energie und Umwelt;Hoffnungsträger;-30;-27;Phosphorrecycling;https://technology-outlook.satw.ch/de/technologien-im-fokus/phosphorrecycling
-Synfuels;5.2;5.4;2;Energie und Umwelt;Star;15;10;Synfuels (Präzisionskatalyse);https://technology-outlook.satw.ch/de/technologien-im-fokus/synfuels
-Wasserstoff;0.2;2.9;3;Energie und Umwelt;Hoffnungsträger;10;25;Wasserstoff;https://technology-outlook.satw.ch/de/technologien-im-fokus/wasserstoff
-Erdbeobachtung;4.7;5.4;3;Space Sciences;Nische;-95;-25;Erdbeobachtung;https://technology-outlook.satw.ch/de/technologien-im-fokus/erdbeobachtung
-2D-Materialien;0.9;0.6;2;Fertigungsprozesse und Materialien;Hoffnungsträger;10;10;2D-Materialien;https://technology-outlook.satw.ch/de/technologien-im-fokus/2d-materialien
-Bioplastik aus Abfall;4.5;2.9;3;Fertigungsprozesse und Materialien;Hoffnungsträger;-215;15;Bioplastik aus Abfall;https://technology-outlook.satw.ch/de/technologien-im-fokus/bioplastik-aus-abfall
-CO2-armer Beton;9.4;0.8;2;Fertigungsprozesse und Materialien;Selbstläufer;-105;-15;CO2-armer Beton;https://technology-outlook.satw.ch/de/technologien-im-fokus/co2-reduzierter-beton
-CO2-basierte Kunststoffe;6.6;0.8;2;Fertigungsprozesse und Materialien;Selbstläufer;-125;-20;CO2-basierte Kunststoffe;https://technology-outlook.satw.ch/de/technologien-im-fokus/co2-basierte-kunststoffe
-Faseroptische Sensoren;10;0.6;11;Fertigungsprozesse und Materialien;Selbstläufer;-215;45;Faseroptische Sensoren;https://technology-outlook.satw.ch/de/technologien-im-fokus/faseroptische-sensoren-1
-flexible Batterien;0.6;0.6;4;Fertigungsprozesse und Materialien;Hoffnungsträger;-15;35;Flexible Batterien;https://technology-outlook.satw.ch/de/technologien-im-fokus/flexible-batterien
-nachhaltige Kleb- und Dichtstoffe;7.1;0.4;4;Fertigungsprozesse und Materialien;Selbstläufer;-290;30;Nachhaltige Kleb- und Dichtstoffe;https://technology-outlook.satw.ch/de/technologien-im-fokus/nachhaltige-kleb-und-dichtstoffe-1
-Perovskite;0.6;3.1;4;Fertigungsprozesse und Materialien;Hoffnungsträger;-25;-20;Perovskite;https://technology-outlook.satw.ch/de/technologien-im-fokus/perowskit
-Plasmatechnologien;2;2.9;1;Fertigungsprozesse und Materialien;Hoffnungsträger;-15;-15;Plasmatechnologien;https://technology-outlook.satw.ch/de/technologien-im-fokus/plasmatechnologien
-Photonik auf Diamantbasis;2.5;0.8;0;Fertigungsprozesse und Materialien;Hoffnungsträger;-25;-15;Photonik auf Diamantbasis;https://technology-outlook.satw.ch/de/technologien-im-fokus/diamantbasierte-photonik
-TIMs;2.9;0.8;2;Fertigungsprozesse und Materialien;Hoffnungsträger;-25;28;Wärmeleitende elektrische Isolatoren (TIMs);https://technology-outlook.satw.ch/de/technologien-im-fokus/tims
-Bakteriophagen;0.1;0.6;4;Life Sciences;Hoffnungsträger;-5;-60;Bakteriophagen;https://technology-outlook.satw.ch/de/technologien-im-fokus/bakteriophagen
-Bioinspiration;5.2;7.4;8;Life Sciences;Star;25;25;Bioinspiration;https://technology-outlook.satw.ch/de/technologien-im-fokus/bioinspiration-und-biointegration-1
-Biokatalyse;7.2;0.5;5;Life Sciences;Selbstläufer;15;-15;Biokatalyse;https://technology-outlook.satw.ch/de/technologien-im-fokus/biokatalyse
-Human Augmentation;7.1;3.1;5;Life Sciences;Selbstläufer;10;30;Human Augmentation;https://technology-outlook.satw.ch/de/technologien-im-fokus/human-augmentation
-mRNA;1.5;0.8;3;Life Sciences;Hoffnungsträger;15;5;Messenger-RNA (mRNA);https://technology-outlook.satw.ch/de/technologien-im-fokus/mrna
-personalisierte Ernährung;8.3;7.2;1;Life Sciences;Star;-77;25;Personalisierte Ernährung;https://technology-outlook.satw.ch/de/technologien-im-fokus/personalisierte-ernaehrung-1
-synthetische Biologie;5.5;3.1;3;Life Sciences;Selbstläufer;-40;-19;Synthetische Biologie;https://technology-outlook.satw.ch/de/technologien-im-fokus/synthetische-biologie-1
+technology;econ_relevance;research_relevance;industry_application;field;quadrant;label_dx;label_dy;name_long;url;industry_class
+Industrie 5.0;7.4;7.7;8;Digitale Welt;Star;-30;-30;Industrie 5.0;https://technology-outlook.satw.ch/de/technologien-im-fokus/industrie-50;
+IoT;9.1;9.6;11;Digitale Welt;Star;35;5;Internet of Things;https://technology-outlook.satw.ch/de/technologien-im-fokus/internet-of-things;"Chemie; Pharma; Elektronik & Instrumente; Elektrotechnik; Fahrzeug- & Maschinenbau; Druck, Holz & Papier; Energie, Wasser & Umwelt; Kunststoffe; Metallverarbeitung; Nahrungsmittel; sonstige Industrien"
+PICs;3.1;0.8;2;Digitale Welt;Hoffnungsträger;12;5;Photonisch integrierte Schaltkreise (PICs);https://technology-outlook.satw.ch/de/technologien-im-fokus/pics-1;
+URLCC;8.6;7.7;4;Digitale Welt;Star;15;-20;Ultrazuverlässige Echtzeitkommunikation;https://technology-outlook.satw.ch/de/technologien-im-fokus/urllc;
+künstliche Photosynthese;3.1;5.4;2;Energie und Umwelt;Nische;-200;-20;Künstliche Photosynthese;https://technology-outlook.satw.ch/de/technologien-im-fokus/kuenstliche-photosynthese-1;
+Kunststoffrecycling;4.8;2.7;7;Energie und Umwelt;Hoffnungsträger;-150;45;Kunststoffrecycling;https://technology-outlook.satw.ch/de/technologien-im-fokus/kunststoffrecycling;
+Negativemissionstechnologien;3;7.4;5;Energie und Umwelt;Nische;-225;-20;Negativemissionstechnologien;https://technology-outlook.satw.ch/de/technologien-im-fokus/negativemissionstechnologien;
+Phosphorrecycling;0.7;0.7;2;Energie und Umwelt;Hoffnungsträger;-30;-27;Phosphorrecycling;https://technology-outlook.satw.ch/de/technologien-im-fokus/phosphorrecycling;
+Synfuels;5.2;5.4;2;Energie und Umwelt;Star;15;10;Synfuels (Präzisionskatalyse);https://technology-outlook.satw.ch/de/technologien-im-fokus/synfuels;
+Wasserstoff;0.2;2.9;3;Energie und Umwelt;Hoffnungsträger;10;25;Wasserstoff;https://technology-outlook.satw.ch/de/technologien-im-fokus/wasserstoff;
+Erdbeobachtung;4.7;5.4;3;Space Sciences;Nische;-95;-25;Erdbeobachtung;https://technology-outlook.satw.ch/de/technologien-im-fokus/erdbeobachtung;
+2D-Materialien;0.9;0.6;2;Fertigungsprozesse und Materialien;Hoffnungsträger;10;10;2D-Materialien;https://technology-outlook.satw.ch/de/technologien-im-fokus/2d-materialien;
+Bioplastik aus Abfall;4.5;2.9;3;Fertigungsprozesse und Materialien;Hoffnungsträger;-215;15;Bioplastik aus Abfall;https://technology-outlook.satw.ch/de/technologien-im-fokus/bioplastik-aus-abfall;
+CO2-armer Beton;9.4;0.8;2;Fertigungsprozesse und Materialien;Selbstläufer;-105;-15;CO2-armer Beton;https://technology-outlook.satw.ch/de/technologien-im-fokus/co2-reduzierter-beton;
+CO2-basierte Kunststoffe;6.6;0.8;2;Fertigungsprozesse und Materialien;Selbstläufer;-125;-20;CO2-basierte Kunststoffe;https://technology-outlook.satw.ch/de/technologien-im-fokus/co2-basierte-kunststoffe;
+Faseroptische Sensoren;10;0.6;11;Fertigungsprozesse und Materialien;Selbstläufer;-215;45;Faseroptische Sensoren;https://technology-outlook.satw.ch/de/technologien-im-fokus/faseroptische-sensoren-1;
+flexible Batterien;0.6;0.6;4;Fertigungsprozesse und Materialien;Hoffnungsträger;-15;35;Flexible Batterien;https://technology-outlook.satw.ch/de/technologien-im-fokus/flexible-batterien;
+nachhaltige Kleb- und Dichtstoffe;7.1;0.4;4;Fertigungsprozesse und Materialien;Selbstläufer;-290;30;Nachhaltige Kleb- und Dichtstoffe;https://technology-outlook.satw.ch/de/technologien-im-fokus/nachhaltige-kleb-und-dichtstoffe-1;
+Perovskite;0.6;3.1;4;Fertigungsprozesse und Materialien;Hoffnungsträger;-25;-20;Perovskite;https://technology-outlook.satw.ch/de/technologien-im-fokus/perowskit;
+Plasmatechnologien;2;2.9;1;Fertigungsprozesse und Materialien;Hoffnungsträger;-15;-15;Plasmatechnologien;https://technology-outlook.satw.ch/de/technologien-im-fokus/plasmatechnologien;
+Photonik auf Diamantbasis;2.5;0.8;0;Fertigungsprozesse und Materialien;Hoffnungsträger;-25;-15;Photonik auf Diamantbasis;https://technology-outlook.satw.ch/de/technologien-im-fokus/diamantbasierte-photonik;
+TIMs;2.9;0.8;2;Fertigungsprozesse und Materialien;Hoffnungsträger;-25;28;Wärmeleitende elektrische Isolatoren (TIMs);https://technology-outlook.satw.ch/de/technologien-im-fokus/tims;
+Bakteriophagen;0.1;0.6;4;Life Sciences;Hoffnungsträger;-5;-60;Bakteriophagen;https://technology-outlook.satw.ch/de/technologien-im-fokus/bakteriophagen;
+Bioinspiration;5.2;7.4;8;Life Sciences;Star;25;25;Bioinspiration;https://technology-outlook.satw.ch/de/technologien-im-fokus/bioinspiration-und-biointegration-1;
+Biokatalyse;7.2;0.5;5;Life Sciences;Selbstläufer;15;-15;Biokatalyse;https://technology-outlook.satw.ch/de/technologien-im-fokus/biokatalyse;
+Human Augmentation;7.1;3.1;5;Life Sciences;Selbstläufer;10;30;Human Augmentation;https://technology-outlook.satw.ch/de/technologien-im-fokus/human-augmentation;
+mRNA;1.5;0.8;3;Life Sciences;Hoffnungsträger;15;5;Messenger-RNA (mRNA);https://technology-outlook.satw.ch/de/technologien-im-fokus/mrna;
+personalisierte Ernährung;8.3;7.2;1;Life Sciences;Star;-77;25;Personalisierte Ernährung;https://technology-outlook.satw.ch/de/technologien-im-fokus/personalisierte-ernaehrung-1;
+synthetische Biologie;5.5;3.1;3;Life Sciences;Selbstläufer;-40;-19;Synthetische Biologie;https://technology-outlook.satw.ch/de/technologien-im-fokus/synthetische-biologie-1;
